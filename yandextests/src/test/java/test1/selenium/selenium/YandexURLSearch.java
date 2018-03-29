@@ -19,6 +19,7 @@ public class YandexURLSearch {
         driver.findElement(By.id("text")).sendKeys("selenium webdriver");
         driver.findElement(By.xpath("//button[@type='submit']")).click();
         List<WebElement> resultsEntries = (List<WebElement>) driver.findElements(By.className("organic__url-text"));
+        System.out.println(resultsEntries);
 //      Страница результатов поиска
             int pageNumber=0;
             boolean foundMatch=false;
