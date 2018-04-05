@@ -26,6 +26,7 @@
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-safari-driver:3.11.0" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-support:3.11.0" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-remote-driver:3.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.mail:pop3:1.6.1" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
@@ -47,6 +48,8 @@
     <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.9.1" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.13.0" level="project" />
     <orderEntry type="library" name="Gradle: com.codeborne:phantomjsdriver:1.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.mail:mailapi:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
     <orderEntry type="library" name="Gradle: org.checkerframework:checker-compat-qual:2.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />

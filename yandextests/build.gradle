@@ -16,7 +16,6 @@ dependencies {
         testCompile group: 'org.seleniumhq.selenium', name: 'selenium-remote-driver', version: '3.11.0'
         testCompile group: 'com.codeborne', name: 'selenide', version: '4.10.01'
         testCompile 'ru.yandex.qatools.htmlelements:htmlelements-all:1.19'
-
-
+        testCompile group: 'com.sun.mail', name: 'pop3', version: '1.6.1'
     }
 }

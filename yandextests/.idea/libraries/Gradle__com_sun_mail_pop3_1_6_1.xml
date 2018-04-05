@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sun.mail:pop3:1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.mail/pop3/1.6.1/5c7d9168f9d01e5d11f1726c1e3a60ec53c1df3f/pop3-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.mail/pop3/1.6.1/cb1279051fe47c9c2484ff9635977e05cf7881bc/pop3-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
